@@ -5,8 +5,6 @@
     <groupId>com.fq</groupId>
     <artifactId>sb_receive_param</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sb_receive_param</name>
-    <description>sb_receive_param</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
